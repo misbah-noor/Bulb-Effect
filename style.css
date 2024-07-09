@@ -62,7 +62,7 @@ body{
 }
 
 #bulb-on{
-  mix-blend-mode: color-burn;
+  mix-blend-mode: color;
 }
 
 .wrapper img#bulb-on{
